@@ -16,9 +16,9 @@ Tenemos una filosofía de que el programador se sienta cómodo con sus herramien
 
 Por eso, ¿Cuáles son nuestros principales objetivos?
 
-1. - Ser directos: Un programa sin complicaciones, listo para usarse de entrada y con opciones que serian mas que suficientes para un buen flujo de trabajo.
-2. - Seguro: No queremos a otra gente metida en nuestros asuntos internos, todos los chats son privados y solo por lado del cliente se guarda información de los chats y archivos.
-3. -Utilidad: Queremos proveer la mayor cantidad de herramientas que puedan ser necesarias para el día a día del programador o trabajador que use el programa, siempre estamos dispuestos a incluir nuevas funcionalidades.
+1. Ser directos: Un programa sin complicaciones, listo para usarse de entrada y con opciones que serian mas que suficientes para un buen flujo de trabajo.
+2. Seguro: No queremos a otra gente metida en nuestros asuntos internos, todos los chats son privados y solo por lado del cliente se guarda información de los chats y archivos.
+3. Utilidad: Queremos proveer la mayor cantidad de herramientas que puedan ser necesarias para el día a día del programador o trabajador que use el programa, siempre estamos dispuestos a incluir nuevas funcionalidades.
 
 
 ## Funcionalidades
@@ -37,7 +37,8 @@ Para que quede de manera mas visual como funcionara el programa a continuación 
 
 
 
-![[diagrama-sistema.svg]]
+![Diagrama](diagrama-sistema.svg)
+
 
 ## Herramientas
 ___
